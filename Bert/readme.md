@@ -247,7 +247,4 @@ Others”的Positive Fasle中，错误分布相对比较均匀：
 
 ![](https://cdn.nlark.com/yuque/0/2023/png/35498984/1697455677282-9dbc083c-41af-43e9-b548-d620048f5582.png)
 
-详细数据文件：
-
-[ORI_train_gpt_vaild_combination.json](https://www.yuque.com/attachments/yuque/0/2023/json/35498984/1700486343923-0ca5bd97-e9ab-42bb-a58c-3406fd0f3d3c.json)[ORI_train_ori_vaild_combination.json](https://www.yuque.com/attachments/yuque/0/2023/json/35498984/1700486343927-278c39f9-0d3b-4095-9d67-c291bbae9812.json)
 
